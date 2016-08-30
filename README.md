@@ -1,7 +1,8 @@
 # Adreno-Services
 OpenSource Private Mesch Network System
 
-Deutsch /:
+Deutsch 
+---------
 
 Windows Systeme:
 
@@ -10,4 +11,5 @@ Linux Systeme:
 macOS Systeme:
 
 
-English /:
+English
+---------
